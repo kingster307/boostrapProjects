@@ -1,2 +1,2 @@
 # boostrapProjects
-A collocational of basic bootstrap exercises 
+A collection of basic bootstrap exercises 
